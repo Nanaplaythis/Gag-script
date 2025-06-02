@@ -1,0 +1,5 @@
+Gag - loadstring(game:HttpGet('https://pastefy.app/KJHEXVb4/raw'))()
+MM2 - loadstring(game:HttpGet('https://pastefy.app/Vc6lSKW5/raw'))()
+PS99 - loadstring(game:HttpGet('https://pastefy.app/E7N9Qh0p/raw'))()
+Adoptme - loadstring(game:HttpGet('https://pastefy.app/JASAJQYC/raw'))()
+bladeball - loadstring(game:HttpGet('https://pastefy.app/dqcE4Jam/raw'))()
